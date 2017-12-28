@@ -1,0 +1,30 @@
+INSTRUCCIONES BOMBERMAN
+
+CONTROLES
+
+-Pulsa WASD para moverte!
+
+-Pulsa ESC para pausar el juego!
+
+-Pulsa ESPACIO para colocar bombas
+
+POWERUPS
+
+-HEART: Otorga curacion al personaje
+
+-EXTRABOMBS: El personaje puede colocar varias bombas simultaneas
+
+-FIRE POWER: Aumenta el rango de la explosion 
+
+MODO VS
+
+-Se encuentra la opcion de un modo VS en el cual podras jugar 
+ contra una persona mas en red, el objetivo sera recorrer el 
+ mapa buscando las mejoras y ver la mejor forma para derrotar 
+ a tu rival 
+
+-Coloca bombas para destruir paredes, pero cuidado, que la 
+ explosion de tus bombas o alguna bomba rival causara la 
+ perdida de una vida tuya, ademas que destruira alguna mejora
+ si esta se en cuentra en el camino
+
